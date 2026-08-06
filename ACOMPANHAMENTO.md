@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Tráfico de Animais
+**Turma:** 3A
+
 
 ---
 
@@ -11,9 +11,13 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Erick | Relatório: levantamento dos requisitos; diagrama de caso de uso  |
+| Bianca | Site: parte informativa/landing page; Iniciar parte de  denuncias
+ |
+ 
+Backlog:
+- site: parte informativa/landing page; fazer denuncias
+- relatório: introdução, passar para o padrão de TCC da escola; levantamento dos requisitos; diagrama de caso de uso 
 
 ### Verificação em 08/08
 
