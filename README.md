@@ -7,8 +7,8 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
+| (Erick Wallace Siqueira Marroco) | | 3A |
+| (Bianca Laís Kirk) | | 3A |
 | (nome 3) | @username | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
