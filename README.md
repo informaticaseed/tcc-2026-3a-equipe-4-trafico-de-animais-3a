@@ -9,7 +9,6 @@
 |--------------|--------|-------|
 | (Erick Wallace Siqueira Marroco) | | 3A |
 | (Bianca Laís Kirk) | | 3A |
-| (nome 3) | @username | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
 **Tecnologia:** Python + Flask + SQLite
