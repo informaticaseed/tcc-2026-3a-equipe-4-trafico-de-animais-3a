@@ -17,7 +17,7 @@
  
 Backlog:
 - site: parte informativa/landing page; fazer denuncias
-- relatório: introdução, passar para o padrão de TCC da escola; levantamento dos requisitos; diagrama de caso de uso 
+- relatório: introdução
 
 ### Verificação em 08/08
 
@@ -34,13 +34,12 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 20/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Erick | introdução; Testar as funcionalidades do site;  |
+| Bianca | Site:  Conectar o repositório do github no lovable; Iniciar o deploy (postar) no vercel ou render |
 
 ### Verificação em 22/08
 
